@@ -1,0 +1,14 @@
+Machine learning syllabus:
+
+1> KNN
+2> Linear regression
+
+How linear regression works?
+
+company_name(ABC)   ---> revenue YOY(Rs.)
+2001                ---> 0
+2002                ---> 10
+2003                ---> 20
+2004                ---> 30
+2010                ---> ?                
+
