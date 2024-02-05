@@ -12,3 +12,14 @@ company_name(ABC)   ---> revenue YOY(Rs.)
 2004                ---> 30
 2010                ---> ?                
 
+
+
+Bias and variance
+-----------------
+Breakdown data into two part according to our desired ratio
+Training dataset 
+Testing dataset 
+
+
+Underfitting and overfitting of model
+
