@@ -23,3 +23,30 @@ Testing dataset
 
 Underfitting and overfitting of model
 
+Scaling: 
+    Standard scaler
+    MinMaxScaler
+    Binerizer
+
+Confusion matrix(classification)
+
+ALGORITHMS:
+
+Supervise Learning
+    KNN
+    Linear regression
+    Logistic regression
+    Decision Tree
+    Ensemble Learning 
+        Bagging
+        Boosting
+        Stacking
+    SVM
+    NLP:
+        Bernaullis
+
+Unsupervise Learning:
+    Kmean
+
+
+
